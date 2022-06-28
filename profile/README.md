@@ -4,7 +4,6 @@
 |-----|----|--------|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Matteo | Teacher | [@mt-sette](https://github.com/mt-sette)|
-| Miguel | Student | [@domikel](https://github.com/Domikel)|
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
@@ -20,7 +19,6 @@
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
-| Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
-| iaroslav| Student| @iarokusch| 
+| Iaroslav| Student| [@iarokusch](https://github.com/iarokusch)| 
 | Bindu |DCI-sudent | [@rbinduc](https://github.com/rbinduc)|
 | Eman | Student | [@dolce-emmy](https://github.com/dolce-emmy/)|
