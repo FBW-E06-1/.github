@@ -1,3 +1,5 @@
+- [class book](https://github.com/FBW-E06-1/class-book)
+
 # Class Participants
 
 | Name | Role | GitHub Username |
