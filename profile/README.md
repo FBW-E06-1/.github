@@ -1,6 +1,9 @@
-- [class book](https://github.com/FBW-E06-1/class-book)
+# In Evidence
 
-# Class Participants
+## 👉 [Class Book](https://github.com/FBW-E06-1/class-book) - live coding, resources, solutions 
+
+
+## Class Participants
 
 | Name | Role | GitHub Username |
 |-----|----|--------|
